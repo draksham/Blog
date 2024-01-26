@@ -2,6 +2,9 @@
 
 BlogEpic is a dynamic blogging platform that empowers users to publish their compelling and thought-provoking blogs. It serves as a creative space where individuals can share their unique perspectives and engage with a diverse audience.
 
+<img width="934" alt="Screenshot 2024-01-26 211009" src="https://github.com/draksham/Blog/assets/123640464/cdebcdb3-6bb0-4920-ba42-135951c3500a">
+
+
 
 This website features include -
 1. Modern Blog Editor using Editor JS.
